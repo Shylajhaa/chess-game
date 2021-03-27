@@ -1,0 +1,13 @@
+2 players (all types of pieces)
+8*8
+
+king (1 move any direction),
+queen (any moves horizontal, vertical, diagonal),
+8 pawns (1 square fws, diagonally forward to put down a piece),
+2 rooks (vertically, horizontally),
+2 knights (2 sq horizon /vertically L-shaped),
+2 bishops (any moves diagonally)
+
+invalid moves to be validated
+checkmate - opponent king is down (only win case)
+
